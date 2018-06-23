@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2043230907/IDF_PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2043230907/IDF_PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2043230907/IDF_PATH/value=~/esp/ESP8266_RTOS_SDK-master
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2043230907/PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2043230907/PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2043230907/PATH/value=/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/usr/games\:/usr/local/games\:/snap/bin\:/home/ivan/esp/xtensa-esp32-elf/bin\:/home/ivan/esp/xtensa-lx106-elf/bin
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2043230907/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2043230907/appendContributed=true
